@@ -1,0 +1,11 @@
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/config/CorsFilter.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/repository/UserRepository.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/controller/UserResource.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/model/User.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/exception/GlobalExceptionHandler.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/dto/UserDto.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/service/UserService.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/model/mapper/UserMapper.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/config/DatabaseConfig.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/config/JerseyConfig.java
+/Users/cosmingr1/IdeaProjects/JerseyFlow/user-service/src/main/java/com/jerseyflow/user/UserServiceApplication.java
