@@ -13,8 +13,8 @@
     </modules>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <jersey.version>3.0.4</jersey.version>
         <hibernate.version>6.2.7.Final</hibernate.version>
         <postgres.version>42.3.1</postgres.version>
