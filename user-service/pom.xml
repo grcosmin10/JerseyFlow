@@ -90,6 +90,14 @@
                     <mainClass>com.jerseyflow.user.UserServiceApplication</mainClass>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <finalName>user-service-1.0-SNAPSHOT</finalName>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
